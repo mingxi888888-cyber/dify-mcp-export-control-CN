@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "export-control-engine": {
+      "command": "sse",
+      "url": "http://101.132.188.148:8000/sse"
+    }
+  }
+}
